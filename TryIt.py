@@ -140,6 +140,7 @@ for i in range(len(col_images)-1):
     cv2.imwrite(pathIn+str(i)+'.png',dmy)
 
 
+
 # specify video name
 pathOut = 'vehicle_detection_v3.mp4'
 
